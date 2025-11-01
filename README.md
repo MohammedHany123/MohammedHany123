@@ -6,18 +6,19 @@
 
 ---
 
-## 🧠 About Me
-Motivated undergraduate student in Information Systems with strong academic performance and a proven record in data science and AI research. Experienced in NLP, Big Data engineering, and machine learning through internships, hackathons, and research projects.
+## About Me
+
+Motivated undergraduate student in Information Systems with strong academic performance and a proven record of achievements in data science and AI research. Experienced through internships and multiple competitions and built collaborative skills. Eager to broaden my international academic perspectives and enhance intercultural collaboration. Aiming to contribute actively to the host community and enrich my university with experiences.
 
 ---
 
-## 🎓 Education
+## Education
 **Cairo University** — B.Sc. in Computers and Artificial Intelligence  
-📅 2023 – Present
+2023 – Present
 
 ---
 
-## 💼 Experience
+## Experience
 **Data Science Intern @ HERE Technologies** (Sep 2025 – Present)  
 • Contributed to spatial analytics solutions.  
 • Applied AI techniques to geospatial datasets.  
@@ -30,13 +31,13 @@ Motivated undergraduate student in Information Systems with strong academic perf
 
 ---
 
-## 🧾 Publication
+## Publication
 **A Transformer-Driven Bilingual Approach to Arabic Text Summarization**  
 IEEE IMSA 2025 — [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11167880)
 
 ---
 
-## 🛠️ Skills
+## Skills
 **Languages:** Python, SQL, C++, R, Java  
 **Big Data:** Hadoop, Spark, Hive, Airflow, NiFi  
 **Databases:** PostgreSQL, MongoDB, MS SQL  
@@ -45,7 +46,7 @@ IEEE IMSA 2025 — [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohammedHany123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -54,7 +55,7 @@ IEEE IMSA 2025 — [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11
 
 ---
 
-### 📈 Most Used Languages
+### Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedHany123&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -62,6 +63,6 @@ IEEE IMSA 2025 — [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11
 
 ---
 
-⭐ *“Transforming data into knowledge — one project at a time.”*
+*“Transforming data into knowledge — one project at a time.”*
 
 ----
