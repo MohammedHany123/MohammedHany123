@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed Hany
 
-<!--
-**MohammedHany123/MohammedHany123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Intern @ HERE Technologies  
+💡 Passionate about Machine Learning, Data Engineering, and Cloud Technologies  
+🧠 Love exploring data-driven solutions and building meaningful insights
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Python | SQL | Pandas | Scikit-learn  
+- Docker | Git | Linux | Jupyter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Deep Learning and Big Data tools
+
+## 📫 Reach Me
+- 💼 [LinkedIn](https://linkedin.com/in/mohammed-hany)
+- 📧 mohammedhany1807@gmail.com
