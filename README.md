@@ -62,7 +62,3 @@ IEEE IMSA 2025 — [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11
 </p>
 
 ---
-
-*“Transforming data into knowledge — one project at a time.”*
-
-----
